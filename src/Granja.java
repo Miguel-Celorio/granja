@@ -33,7 +33,7 @@ public class Granja
         return sb.toString();
     }
     
-    public boolean prueba() {
+    public boolean hormiga() {
     	return true;
     }
     
