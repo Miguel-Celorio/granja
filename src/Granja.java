@@ -5,6 +5,7 @@ public class Granja
     private Granjero granjero;
     private String nombre;
     private String ubicacion;
+   
     
     public Granja(Granjero granjero)
     {
@@ -30,6 +31,10 @@ public class Granja
         sb.append(granjero);
         
         return sb.toString();
+    }
+    
+    public boolean prueba() {
+    	return true;
     }
     
 }
