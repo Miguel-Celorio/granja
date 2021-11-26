@@ -33,7 +33,11 @@ public class Granja
         return sb.toString();
     }
     
+<<<<<<< HEAD
     public boolean hormiga() {
+=======
+    public boolean loqmesaledelapolla() {
+>>>>>>> branch 'master' of https://github.com/Miguel-Celorio/granja.git
     	return true;
     }
     
