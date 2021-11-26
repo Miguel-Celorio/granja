@@ -9,9 +9,9 @@ public class Main
         Mascota mascota = new Mascota("Rex", 13, "Perro");
 
         
-       /* https://www.pornhub.com */paco.setMascota(mascota);
+       paco.setMascota(mascota);
         
-        System.out.println(granjaDePaco);
+       System.out.println(granjaDePaco);
 
     }
     
