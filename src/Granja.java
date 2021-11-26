@@ -33,8 +33,10 @@ public class Granja
         return sb.toString();
     }
     
+
     public boolean pruebaMiguel() {
     	return true;
     }
+
     
 }
