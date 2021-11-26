@@ -8,7 +8,7 @@ public class Main
         Granja granjaDePaco = new Granja("Pacota del Sur", "Panama", paco);
         Mascota mascota = new Mascota("Rex", 13, "Perro");
         
-        paco.setMascota(mascota);
+       /* https://www.pornhub.com */paco.setMascota(mascota);
         
         System.out.println(granjaDePaco);
     }
